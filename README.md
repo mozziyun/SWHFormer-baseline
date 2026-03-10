@@ -1,3 +1,4 @@
+Model Summary: "SWHFormer reconstructed based on Yang and Huang (2024).
 Implementation of the SWHFormer-based baseline used in our study for significant wave height estimation from radar data.
 
 # SWHFormer Baseline Implementation
@@ -36,3 +37,4 @@ The raw radar dataset cannot be shared due to data privacy and institutional pol
 
 
 The repository contains the TensorFlow/Keras implementation of the SWHFormer-based baseline model used for comparison in our study.
+
