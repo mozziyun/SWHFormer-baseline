@@ -1,3 +1,5 @@
+Implementation of the SWHFormer-based baseline used in our study for significant wave height estimation from radar data.
+
 # SWHFormer Baseline Implementation
 
 This repository provides the TensorFlow/Keras implementation of the SWHFormer-based comparison model used in our study.
@@ -31,5 +33,6 @@ This representation allows the transformer architecture to capture temporal char
 The raw radar dataset cannot be shared due to data privacy and institutional policy.
 
 ## Code
+
 
 The repository contains the TensorFlow/Keras implementation of the SWHFormer-based baseline model used for comparison in our study.
